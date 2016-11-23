@@ -1,3 +1,18 @@
 = StarTECH graphical elements
 
 Contains the graphical elements of the StarTECH Java (stickers, logo, etc.)
+
+== Logos
+
+All StarTECH logos were done using www.getpaint.net/[Paint.net] (`.pdn` extension for all working files).
+
+== Stickers
+
+The StarTECH Duke artisan stickers were done using https://inkscape.org/fr/[Inkscape] (`.svg` extension for all working files).
+
+To see all the work layers in the svg file, you need to open it using the *Inkscape open feature*, and *not* by drag & dropping the file in the software.
+
+== License
+
+All the documents here are released into https://en.wikipedia.org/wiki/Creative_Commons_license[CCO license] (public domain).
+
